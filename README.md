@@ -28,5 +28,16 @@ cd Demo
 5. git status
 Definition: Shows the current state of the working directory and staging area in Git.
 Example:
-git status -->
+
+6. git add .
+Definition: Stages all changes in the working directory.
+
+7. git commit -m "...."
+Definition: Commits the staged changes with a meaningful commit message.
+
+8. git push origin main
+Definition: Pushes the committed changes to the remote repository.
+ 
+ 
+ -->
 
